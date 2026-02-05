@@ -39,3 +39,11 @@ My master's thesis improved traditional cyber risk ratings by incorporating feat
 * **Published Paper** [Innovative Supply Chain Cyber Risk Analytics: Unsupervised Clustering and Reinforcement Learning Approaches](docs/d1_paper.pdf)
 
 ---
+
+### Project E: VLMs for Autonomous Battle Damage Assessments
+
+My current work at AI2C focuses on objectively evaluating VLM-generated BDAs using open-source data, as well as developing a self-contained and portable environment to create VLM-generated BDAs on edge devices operating within research environments.
+
+* **GitHub Repository (Work In-Progress)** [Link](https://github.com/cmu-bda/bda-svc)
+
+---
